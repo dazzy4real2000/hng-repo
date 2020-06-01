@@ -1,2 +1,2 @@
-# hng-repo
+# HNG-Repository
 ## just getting started
